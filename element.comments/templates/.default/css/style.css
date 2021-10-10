@@ -1,0 +1,8 @@
+.comments-container {
+	margin:10px;
+	width:500px;
+}
+.comment {
+	padding:20px;
+	border-bottom: 1px dotted #e9ecef;
+}
