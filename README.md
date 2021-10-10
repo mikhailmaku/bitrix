@@ -49,3 +49,5 @@ $APPLICATION->IncludeComponent(
 );
 ?>
 ```
+
+![пример работы компонента](https://github.com/mikhailmaku/bitrix/blob/main/bitrix.component.comments.png?raw=true)
